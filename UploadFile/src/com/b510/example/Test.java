@@ -4,6 +4,6 @@ class Test
 {
    public Test()
 {
-System.out.println("Remote3");
+System.out.println("Local");
 }
 }
